@@ -3,7 +3,8 @@
 Python Notebook for ACL segmentation. Data Loader, viewer, and segmentation in a given plane.
 Uses data from MRNET dataset by Stanford University all in .npy format
 
-Download data using following command and unzip in same directory as notebook
+Download data using following command and unzip in same directory as notebook:
+
 '''python
 !wget https://www.kaggle.com/cjinny/mrnet-v1/download
 '''
