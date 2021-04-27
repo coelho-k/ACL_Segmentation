@@ -17,4 +17,4 @@ the [official documentation](https://stanfordmlgroup.github.io/competitions/mrne
 ### Reference
 
 [Ahmed Besbes](https://www.ahmedbesbes.com/case-studies/mrnet-network)\
-[MRNet Stanford](https://stanfordmlgroup.github.io/competitions/mrnet/)\
+[MRNet Stanford](https://stanfordmlgroup.github.io/competitions/mrnet/)
