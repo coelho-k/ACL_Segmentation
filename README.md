@@ -5,9 +5,10 @@ Uses data from MRNET dataset by Stanford University all in .npy format
 
 Download data using following command and unzip in same directory as notebook:
 
-'''python
+```python
 !wget https://www.kaggle.com/cjinny/mrnet-v1/download
-'''
+```
+
 
 Alternatively, download directly from [Kaggle](https://www.kaggle.com/cjinny/mrnet-v1) or from
 the [official documentation](https://stanfordmlgroup.github.io/competitions/mrnet/)
@@ -15,5 +16,5 @@ the [official documentation](https://stanfordmlgroup.github.io/competitions/mrne
 
 ### Reference
 
-[Ahmed Besbes](https://www.ahmedbesbes.com/case-studies/mrnet-network)
-[MRNet Stanford](https://stanfordmlgroup.github.io/competitions/mrnet/)
+[Ahmed Besbes](https://www.ahmedbesbes.com/case-studies/mrnet-network)\
+[MRNet Stanford](https://stanfordmlgroup.github.io/competitions/mrnet/)\
